@@ -10,7 +10,7 @@ Analyze coffee shop sales data using Excel by preparing and cleaning the dataset
 
 ![Dashboard](Dashboard.png)
 
-##Questions (KPIs)
+## Questions (KPIs)
 
 -  How many transactions were recorded? 
 -  What is the total revenue generated? 
@@ -23,7 +23,7 @@ Analyze coffee shop sales data using Excel by preparing and cleaning the dataset
 -  How does store location affect sales performance? 
 -  What operational improvements can increase revenue or efficiency?
   
-##Proces
+## Proces
 -Data Cleaning & Preparation 
 -	Feature Engineering (Revenue, Month, Day, Hour) 
 -	PivotTable Analysis 
