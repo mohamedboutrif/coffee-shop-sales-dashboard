@@ -2,6 +2,10 @@
 ## Project Objective
 Analyze coffee shop sales data using Excel by preparing and cleaning the dataset, exploring trends with PivotTables, and building an interactive dashboard to uncover insights on revenue, transactions, product performance, and store locations.
 
+## Excel File
+
+📊 [Download the Excel Dashboard](./Coffee_Shop_Sales_Dashboard.xlsx)
+
 ## Dashboard Preview
 
 ![Dashboard](DASHBOARD.png)
