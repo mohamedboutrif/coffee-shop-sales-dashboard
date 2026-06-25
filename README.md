@@ -4,7 +4,7 @@ Analyze coffee shop sales data using Excel by preparing and cleaning the dataset
 
 ## Excel File
 
-📊 [Download the Excel Dashboard](./Coffee_Shop_Sales_Dashboard.xlsx)
+📥 [Download Coffee_Shop_Sales_Dashboard.xlsx](./Coffee_Shop_Sales_Dashboard.xlsx)
 
 ## Dashboard Preview
 
