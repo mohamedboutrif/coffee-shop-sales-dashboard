@@ -8,7 +8,7 @@ Analyze coffee shop sales data using Excel by preparing and cleaning the dataset
 
 ## Dashboard Preview
 
-![Dashboard](DASHBOARD.png)
+![Dashboard](Dashboard.png)
 
 ##Questions (KPIs)
 
