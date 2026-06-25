@@ -32,3 +32,8 @@ Analyze coffee shop sales data using Excel by preparing and cleaning the dataset
 -	Interactive Dashboard Development 
 -	Insight Generation & Recommendations
 
+## Key insights
+- Coffee was the best-selling product category.
+- Fridays recorded the highest number of transactions.
+- Revenue showed an upward trend over the analyzed period.
+- Peak sales occurred during morning hours.
